@@ -1,0 +1,53 @@
+﻿
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, select {
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+#centro {
+    width: 300px; 
+    height: 200px; 
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 20px;
+}
+
+#resultadoDiv {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f0f0f0;
+}
+
+    #resultadoDiv h2 {
+        color: #333;
+    }
+
+
+div p {
+    color: red;
+}
